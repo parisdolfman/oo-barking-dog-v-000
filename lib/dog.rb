@@ -5,7 +5,7 @@ def name=(name)
 end
 
 def name
-  @name 
+  @name
 end
 
 def bark
@@ -13,4 +13,3 @@ def bark
 end
 
 end
-
